@@ -1,0 +1,22 @@
+{
+  "name": "javascript.info",
+  "version": "1.0.0",
+  "description": "测试的哈哈",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laucher/javascript.info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laucher/javascript.info/issues"
+  },
+  "homepage": "https://github.com/laucher/javascript.info#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
