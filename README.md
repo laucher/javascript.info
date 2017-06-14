@@ -1,2 +1,2 @@
 # javascript.info
-测试的哈哈
+这是一个测试的简介
